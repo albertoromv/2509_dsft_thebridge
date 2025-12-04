@@ -1,0 +1,15 @@
+https://distill.pub/2019/memorization-in-rnns/  (comparación de distintas arquitecturas)
+
+https://keras.io/examples/nlp/lstm_seq2seq/   (traductor usando lstm encoder-decoder)
+
+(clasificar garabatos o generar música de Bach)
+
+https://colab.research.google.com/github/ageron/handson-ml3/blob/main/15_processing_sequences_using_rnns_and_cnns.ipynb#scrollTo=ne5qAxUmjg3d
+
+
+Mecanismos de atención
+
+https://lilianweng.github.io/posts/2018-06-24-attention/
+
+
+https://kikaben.com/transformers-encoder-decoder/ (Transformers)
